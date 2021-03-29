@@ -24,10 +24,11 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. {{page.food}}
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-_@2021_ 
+_@2021_ {{date.}}
