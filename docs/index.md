@@ -31,4 +31,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-_@2021_ {{date.}}
+_{{ site.time | date: '%y' }}_ {{ site.time | date: '%y' }}
